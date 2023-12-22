@@ -3,6 +3,8 @@
 ## About
 This repository is an implementation of the [ar-io-node](https://github.com/ar-io/ar-io-node) gateway's codebase, offering a tailored implementation designed to provide the weaveVM (WVM) with scalability and high-performance access to the Permaweb.
 
+## Gateway base endpoint: https://wvm-gateway.xyz/
+
 ## Dev Workflow
 
 ```console
